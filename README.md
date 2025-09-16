@@ -1,5 +1,5 @@
 # AWS-DEV-guessing-game
-[Teste o jogo](https://guessing-game-html-ruandavid.s3.us-east-1.amazonaws.com/index.html)
+
 ## Infraestrutura-AWS
 
 ### Lambda
@@ -68,4 +68,5 @@ Bucket S3 configurado para hospedar o frontend estático.
 </details>
 
 ## Agradecimentos
+
 Agradeço ao professor Matheus Phillipo e toda equipe da [Escola da Nuvem](https://escoladanuvem.org/).
